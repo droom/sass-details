@@ -1,0 +1,177 @@
+@font-face {
+  font-family: "Graphik";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Graphik.woff2") format("woff");
+}
+@font-face {
+  font-family: "Nitti Normal";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Nitti-Normal.woff") format("woff");
+}
+.spectral-extralight {
+  font-family: "Spectral", serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.spectral-light {
+  font-family: "Spectral", serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.spectral-regular {
+  font-family: "Spectral", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.spectral-medium {
+  font-family: "Spectral", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.spectral-semibold {
+  font-family: "Spectral", serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.spectral-bold {
+  font-family: "Spectral", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.spectral-extrabold {
+  font-family: "Spectral", serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.spectral-extralight-italic {
+  font-family: "Spectral", serif;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.spectral-light-italic {
+  font-family: "Spectral", serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.spectral-regular-italic {
+  font-family: "Spectral", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.spectral-medium-italic {
+  font-family: "Spectral", serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.spectral-semibold-italic {
+  font-family: "Spectral", serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.spectral-bold-italic {
+  font-family: "Spectral", serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.spectral-extrabold-italic {
+  font-family: "Spectral", serif;
+  font-weight: 800;
+  font-style: italic;
+}
+
+
+body {
+  background: #221e20;
+  color: #f1f1f1;
+}
+
+
+nav,
+h1, h2, h3, h4, h5,
+p,
+ol, ul, li,
+blockquote, cite {
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5, li, p, blockquote, cite, nav {
+  font-family: "Nitti Normal", monospace;
+/*  list-style: none;*/
+  font-weight: 300;
+  font-size: 16px;
+}
+
+body{
+  padding: 20px;
+}
+
+nav ol, ul{
+  columns: 4;
+}
+
+nav{
+  margin: 40px 0;
+}
+
+ol li,
+ul li{
+  list-style: none;
+}
+
+h4 + p{
+  margin-top: 20px;
+}
+
+header{
+  margin: 0 0 100px 0;
+}
+
+
+.caps{
+  text-transform: uppercase;
+}
+
+.ffs{
+  background: rgba(255,255,255,0.5);
+  color: #221e20;
+  font-size: 15px;
+  padding: 2px;
+  border-radius: 2px;
+
+}
+/*p, blockquote, h1, h2, h3 {
+  margin: 30px 0;
+  font-size: 20px;
+  line-height: 1.32em;
+    font-family: "Spectral", serif;
+  font-weight: 300;
+
+  font-style: normal;
+}*/
+
+p{
+  max-width: 60ch;
+}
+
+hr{
+  border: none;
+  background: white;
+  height: 1px;
+  opacity: 0.2;
+}
