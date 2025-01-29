@@ -11,7 +11,7 @@
   "files" : {
     "\/dist\/brand\/favicon\/016.png" : {
       "ft" : 32768,
-      "iS" : 383,
+      "iS" : 348,
       "oA" : 0,
       "oAP" : "\/dist\/brand\/favicon\/016.png",
       "oF" : 0,
@@ -24,7 +24,7 @@
     },
     "\/dist\/brand\/favicon\/032.png" : {
       "ft" : 32768,
-      "iS" : 683,
+      "iS" : 528,
       "oA" : 0,
       "oAP" : "\/dist\/brand\/favicon\/032.png",
       "oF" : 0,
@@ -37,7 +37,7 @@
     },
     "\/dist\/brand\/favicon\/036.png" : {
       "ft" : 32768,
-      "iS" : 780,
+      "iS" : 580,
       "oA" : 0,
       "oAP" : "\/dist\/brand\/favicon\/036.png",
       "oF" : 0,
@@ -50,7 +50,7 @@
     },
     "\/dist\/brand\/favicon\/048.png" : {
       "ft" : 32768,
-      "iS" : 911,
+      "iS" : 756,
       "oA" : 0,
       "oAP" : "\/dist\/brand\/favicon\/048.png",
       "oF" : 0,
@@ -63,7 +63,7 @@
     },
     "\/dist\/brand\/favicon\/057.png" : {
       "ft" : 32768,
-      "iS" : 1068,
+      "iS" : 890,
       "oA" : 0,
       "oAP" : "\/dist\/brand\/favicon\/057.png",
       "oF" : 0,
@@ -76,7 +76,7 @@
     },
     "\/dist\/brand\/favicon\/060.png" : {
       "ft" : 32768,
-      "iS" : 1111,
+      "iS" : 874,
       "oA" : 0,
       "oAP" : "\/dist\/brand\/favicon\/060.png",
       "oF" : 0,
@@ -89,7 +89,7 @@
     },
     "\/dist\/brand\/favicon\/070.png" : {
       "ft" : 32768,
-      "iS" : 1340,
+      "iS" : 948,
       "oA" : 0,
       "oAP" : "\/dist\/brand\/favicon\/070.png",
       "oF" : 0,
@@ -102,7 +102,7 @@
     },
     "\/dist\/brand\/favicon\/072.png" : {
       "ft" : 32768,
-      "iS" : 1357,
+      "iS" : 944,
       "oA" : 0,
       "oAP" : "\/dist\/brand\/favicon\/072.png",
       "oF" : 0,
@@ -115,7 +115,7 @@
     },
     "\/dist\/brand\/favicon\/076.png" : {
       "ft" : 32768,
-      "iS" : 1392,
+      "iS" : 948,
       "oA" : 0,
       "oAP" : "\/dist\/brand\/favicon\/076.png",
       "oF" : 0,
@@ -128,7 +128,7 @@
     },
     "\/dist\/brand\/favicon\/096.png" : {
       "ft" : 32768,
-      "iS" : 1719,
+      "iS" : 1129,
       "oA" : 0,
       "oAP" : "\/dist\/brand\/favicon\/096.png",
       "oF" : 0,
@@ -141,7 +141,7 @@
     },
     "\/dist\/brand\/favicon\/114.png" : {
       "ft" : 32768,
-      "iS" : 2018,
+      "iS" : 1210,
       "oA" : 0,
       "oAP" : "\/dist\/brand\/favicon\/114.png",
       "oF" : 0,
@@ -154,7 +154,7 @@
     },
     "\/dist\/brand\/favicon\/120.png" : {
       "ft" : 32768,
-      "iS" : 2189,
+      "iS" : 1247,
       "oA" : 0,
       "oAP" : "\/dist\/brand\/favicon\/120.png",
       "oF" : 0,
@@ -167,7 +167,7 @@
     },
     "\/dist\/brand\/favicon\/144.png" : {
       "ft" : 32768,
-      "iS" : 2486,
+      "iS" : 1377,
       "oA" : 0,
       "oAP" : "\/dist\/brand\/favicon\/144.png",
       "oF" : 0,
@@ -180,7 +180,7 @@
     },
     "\/dist\/brand\/favicon\/152.png" : {
       "ft" : 32768,
-      "iS" : 2729,
+      "iS" : 1436,
       "oA" : 0,
       "oAP" : "\/dist\/brand\/favicon\/152.png",
       "oF" : 0,
@@ -193,7 +193,7 @@
     },
     "\/dist\/brand\/favicon\/180.png" : {
       "ft" : 32768,
-      "iS" : 3164,
+      "iS" : 1696,
       "oA" : 0,
       "oAP" : "\/dist\/brand\/favicon\/180.png",
       "oF" : 0,
@@ -206,7 +206,7 @@
     },
     "\/dist\/brand\/favicon\/192.png" : {
       "ft" : 32768,
-      "iS" : 3460,
+      "iS" : 1659,
       "oA" : 0,
       "oAP" : "\/dist\/brand\/favicon\/192.png",
       "oF" : 0,
@@ -219,7 +219,7 @@
     },
     "\/dist\/brand\/favicon\/310.png" : {
       "ft" : 32768,
-      "iS" : 5626,
+      "iS" : 2506,
       "oA" : 0,
       "oAP" : "\/dist\/brand\/favicon\/310.png",
       "oF" : 0,
@@ -232,7 +232,7 @@
     },
     "\/dist\/brand\/favicon\/500.png" : {
       "ft" : 32768,
-      "iS" : 9408,
+      "iS" : 3982,
       "oA" : 0,
       "oAP" : "\/dist\/brand\/favicon\/500.png",
       "oF" : 0,
@@ -245,7 +245,7 @@
     },
     "\/dist\/brand\/favicon\/android-chrome-192x192.png" : {
       "ft" : 32768,
-      "iS" : 7106,
+      "iS" : 4294,
       "oA" : 0,
       "oAP" : "\/dist\/brand\/favicon\/android-chrome-192x192.png",
       "oF" : 0,
@@ -258,7 +258,7 @@
     },
     "\/dist\/brand\/favicon\/android-chrome-512x512.png" : {
       "ft" : 32768,
-      "iS" : 24671,
+      "iS" : 14644,
       "oA" : 0,
       "oAP" : "\/dist\/brand\/favicon\/android-chrome-512x512.png",
       "oF" : 0,
@@ -271,7 +271,7 @@
     },
     "\/dist\/brand\/favicon\/apple-touch-icon.png" : {
       "ft" : 32768,
-      "iS" : 6205,
+      "iS" : 3784,
       "oA" : 0,
       "oAP" : "\/dist\/brand\/favicon\/apple-touch-icon.png",
       "oF" : 0,
@@ -284,7 +284,7 @@
     },
     "\/dist\/brand\/favicon\/favicon-16x16.png" : {
       "ft" : 32768,
-      "iS" : 441,
+      "iS" : 346,
       "oA" : 0,
       "oAP" : "\/dist\/brand\/favicon\/favicon-16x16.png",
       "oF" : 0,
@@ -297,7 +297,7 @@
     },
     "\/dist\/brand\/favicon\/favicon-32x32.png" : {
       "ft" : 32768,
-      "iS" : 980,
+      "iS" : 622,
       "oA" : 0,
       "oAP" : "\/dist\/brand\/favicon\/favicon-32x32.png",
       "oF" : 0,
